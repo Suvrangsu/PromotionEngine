@@ -35,6 +35,9 @@ namespace PromotionEngine
 
             }
 
+            int total = priceCalculation.GetTotalPrice(NoOfProduct);
+            Console.WriteLine("================================================================================");
+            Console.WriteLine("Total price====" + total);
 
             Console.ReadLine();
         }
