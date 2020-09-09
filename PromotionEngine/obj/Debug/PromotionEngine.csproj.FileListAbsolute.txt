@@ -5,3 +5,7 @@ D:\Code\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojAssembly
 D:\Code\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
 D:\Code\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
 D:\Code\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
+D:\Code\PromotionEngine\PromotionEngine\bin\Debug\ItemConfiguration.json
+D:\Code\PromotionEngine\PromotionEngine\bin\Debug\Newtonsoft.Json.dll
+D:\Code\PromotionEngine\PromotionEngine\bin\Debug\Newtonsoft.Json.xml
+D:\Code\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CopyComplete
